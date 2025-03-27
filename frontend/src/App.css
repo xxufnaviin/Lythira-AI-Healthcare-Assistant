@@ -1,0 +1,17 @@
+.button{
+    width: 150px;
+    height: 120px;
+    font-size: 50px;
+    margin: 50px;
+    color: hsl(10, 11%, 89%);
+    background-color: hsl(169, 32%, 44%);
+    border-style: groove;
+    border-color: rgb(53, 50, 50);
+    border-radius: 10px;
+}
+
+.button:hover{
+    background-color: hsl(169, 30%, 25%);
+    color: hsl(11, 6%, 49%);
+}
+
